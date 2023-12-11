@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zamp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/zamp_jar</output-path>
+    <root id="archive" name="zamp.jar">
+      <element id="module-output" name="zamp" />
+    </root>
+  </artifact>
+</component>
